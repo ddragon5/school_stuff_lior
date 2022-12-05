@@ -1,2 +1,4 @@
-for x in range (100):
-    print("Ravit is the best teacher and mother in the world!")
+names = []
+for x in range (1, 11):
+    names.append(input("input your name please: "))
+print(names)
