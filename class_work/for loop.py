@@ -1,4 +1,4 @@
-names = []
-for x in range (1, 11):
-    names.append(input("input your name please: "))
-print(names)
+for item in range(1, 11):
+    print('2 *', item, '=', 2 * item)
+
+print('Done!')
